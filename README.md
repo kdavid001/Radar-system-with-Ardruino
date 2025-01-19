@@ -8,8 +8,8 @@ The report covers the hardware setup, software implementation, and system testin
 
 
 <h2> COMPONENTS USED </h2>
-S/N	PRODUCT	QUANTITY
-1	HC-SR04 Ultrasonic	1	
+S/N	PRODUCT	QUANTITY <br>
+1	HC-SR04 Ultrasonic	1	<br>
 2	Arduino Uno	1	
 3	Active Buzzer	1	
 4	220Ω 1/4W Resistors	4	
