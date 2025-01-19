@@ -1,2 +1,38 @@
 # Radar-system-with-Ardruino
-This repository contains the design and development of a low cost mini radar system. 
+This repository contains the design and development of a low-cost mini radar system. 
+
+
+
+
+<h2> COMPONENTS USED </h2>
+<table> 
+S/N	PRODUCT	QUANTITY
+1	HC-SR04 Ultrasonic	1	
+2	Arduino Uno	1	
+3	Active Buzzer	1	
+4	220Ω 1/4W Resistors	4	
+5	1kΩ 2W Resistor	1	
+6	9G Servo Motor	1	
+7	Slide Switch	1		
+</table>
+
+
+<h2>Radar system on the processing app</h2>
+<img width="1442" alt="Screenshot 2025-01-01 at 15 26 50" src="https://github.com/user-attachments/assets/1045d319-f71a-476c-96ef-ee13c80fe12e" />
+
+
+<h2>CONCLUSION</h2>
+The Arduino-based radar system demonstrates how fundamental radar principles can be effectively implemented using low-cost, readily available hardware. The system achieves real-time object detection and distance measurement by integrating an ultrasonic sensor, servo motor, and Arduino microcontroller, showcasing practical applications in obstacle detection, navigation, and surveillance.
+
+The project emphasises the importance of signal processing, time-of-flight calculations, and hardware-software integration in developing functional prototypes. It also highlights the versatility of Arduino-based systems in exploring complex engineering concepts.
+
+This radar system serves as a stepping stone for more advanced applications, with potential enhancements such as extended range, increased accuracy, and wireless communication for remote monitoring. It bridges theoretical knowledge and practical implementation, providing a valuable learning experience in robotics and automation.
+
+
+
+<h2>RECOMMENDATION</h2>
+The radar system can be significantly enhanced by focusing on several key areas to improve performance and adaptability for various applications. Firstly, the detection range and accuracy can be upgraded by integrating RF radar modules and high-resolution sensors. To visualise the data effectively, advanced data visualisation techniques can be implemented using Python, allowing real-time tracking and analysis. Additionally, wireless connectivity could be added through Bluetooth or Wi-Fi, enabling remote control and monitoring of the system if you’d like to still visualise the data on an external system.
+
+To boost the system’s processing power, microcontrollers such as a Raspberry Pi should be incorporated, allowing for complex computations and the implementation of machine learning algorithms for object classification. A reliable power source, such as a 9V battery, should be used to power the microcontrollers and sensors, ensuring mobility and efficiency. The system should also feature a 5.0” 40-pin TFT Display (800 x 480) or an alternative OLED display for better interaction and data visualisation.
+
+The radar system will be optimised for challenging environments, ensuring energy efficiency and adaptability to diverse use cases such as autonomous navigation, security, and industrial automation.
