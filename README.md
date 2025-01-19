@@ -1,11 +1,13 @@
 # Radar-system-with-Ardruino
-This repository contains the design and development of a low-cost mini radar system. 
+This repository presents the development of a radar system using an Arduino microcontroller for object detection and distance measurement. The project utilises ultrasonic sensors to emit and receive sound waves, applying the time-of-flight principle to calculate object distances. A servo motor rotates the sensor across a 180-degree range, providing a broad field of detection. The detected data is visualised in real-time on a graphical user interface (GUI).
+
+The report covers the hardware setup, software implementation, and system testing, emphasising performance metrics such as range accuracy, detection speed, and angular coverage. Challenges encountered, including unfamiliarity with new software, software bugs, and sensor alignment issues, were addressed through calibration and code refinements. This project showcases the practical application of Arduino-based systems in radar technology, demonstrating their accessibility and cost-effectiveness for small- to medium-scale object detection solutions.
+
 
 
 
 
 <h2> COMPONENTS USED </h2>
-<table> 
 S/N	PRODUCT	QUANTITY
 1	HC-SR04 Ultrasonic	1	
 2	Arduino Uno	1	
@@ -14,7 +16,6 @@ S/N	PRODUCT	QUANTITY
 5	1kΩ 2W Resistor	1	
 6	9G Servo Motor	1	
 7	Slide Switch	1		
-</table>
 
 
 <h2>Radar system on the processing app</h2>
