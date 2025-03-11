@@ -20,7 +20,7 @@ S/N	PRODUCT	QUANTITY <br>
 <img width="1300" alt="Screenshot 2025-01-01 at 15 26 50" src="https://github.com/user-attachments/assets/1045d319-f71a-476c-96ef-ee13c80fe12e" />
 
 <h2>Fully Developed Radar System</h2>
-<img width="144" alt="Screenshot 2025-01-01 at 15 26 50" src="https://github.com/user-attachments/assets/b954d132-209a-43c0-be31-f6ca8d0f9370"/>
+<img alt="Screenshot 2025-01-01 at 15 26 50" src="https://github.com/user-attachments/assets/b954d132-209a-43c0-be31-f6ca8d0f9370"/>
 
 <h2>Radar System circuit diagram</h2>
 <img width="1300" src="https://github.com/user-attachments/assets/20224688-419e-45ed-977a-3d80a53b8afd"/>
