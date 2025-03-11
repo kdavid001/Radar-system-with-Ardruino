@@ -20,13 +20,13 @@ S/N	PRODUCT	QUANTITY <br>
 <img width="1442" alt="Screenshot 2025-01-01 at 15 26 50" src="https://github.com/user-attachments/assets/1045d319-f71a-476c-96ef-ee13c80fe12e" />
 
 <h2>Fully Developed Radar System</h2>
-<img width="1442" alt="Screenshot 2025-01-01 at 15 26 50" src="[RADAR-PROJECT-IMAGE.pdf](https://github.com/user-attachments/files/19179345/RADAR-PROJECT-IMAGE.pdf)" />
+<img width="1442" alt="Screenshot 2025-01-01 at 15 26 50" src="https://github.com/user-attachments/files/19179345/RADAR-PROJECT-IMAGE.pdf" />
 
 <h2>Radar System circuit diagram</h2>
 <img width="1442" src="https://github.com/user-attachments/assets/20224688-419e-45ed-977a-3d80a53b8afd"/>
-<h4>made with Tinkercad</h4>
+<h5>made with Tinkercad</h5>
 
-
+<br><br/>
 
 <h2>CONCLUSION</h2>
 The Arduino-based radar system demonstrates how fundamental radar principles can be effectively implemented using low-cost, readily available hardware. The system achieves real-time object detection and distance measurement by integrating an ultrasonic sensor, servo motor, and Arduino microcontroller, showcasing practical applications in obstacle detection, navigation, and surveillance.
