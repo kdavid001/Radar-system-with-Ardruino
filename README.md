@@ -1,4 +1,4 @@
-[RADAR-PROJECT-IMAGE.pdf](https://github.com/user-attachments/files/19179349/RADAR-PROJECT-IMAGE.pdf)# Radar-system-with-Ardruino
+<img src="https://github.com/user-attachments/files/19179349/RADAR-PROJECT-IMAGE.pdf"/># Radar-system-with-Ardruino
 This repository presents the development of a radar system using an Arduino microcontroller for object detection and distance measurement. The project utilises ultrasonic sensors to emit and receive sound waves, applying the time-of-flight principle to calculate object distances. A servo motor rotates the sensor across a 180-degree range, providing a broad field of detection. The detected data is visualised in real-time on a graphical user interface (GUI).
 
 The report covers the hardware setup, software implementation, and system testing, emphasising performance metrics such as range accuracy, detection speed, and angular coverage. Challenges encountered, including unfamiliarity with new software, software bugs, and sensor alignment issues, were addressed through calibration and code refinements. This project showcases the practical application of Arduino-based systems in radar technology, demonstrating their accessibility and cost-effectiveness for small- to medium-scale object detection solutions.
@@ -20,7 +20,7 @@ S/N	PRODUCT	QUANTITY <br>
 <img width="1442" alt="Screenshot 2025-01-01 at 15 26 50" src="https://github.com/user-attachments/assets/1045d319-f71a-476c-96ef-ee13c80fe12e" />
 
 <h2>Fully Developed Radar System</h2>
-<img width="1442" alt="Screenshot 2025-01-01 at 15 26 50" src="https://github.com/user-attachments/assets/b954d132-209a-43c0-be31-f6ca8d0f9370)"/>
+<img width="1442" alt="Screenshot 2025-01-01 at 15 26 50" src="https://github.com/user-attachments/assets/b954d132-209a-43c0-be31-f6ca8d0f9370"/>
 
 <h2>Radar System circuit diagram</h2>
 <img width="1442" src="https://github.com/user-attachments/assets/20224688-419e-45ed-977a-3d80a53b8afd"/>
