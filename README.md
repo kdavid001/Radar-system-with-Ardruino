@@ -21,6 +21,9 @@ S/N	PRODUCT	QUANTITY <br>
 <h2>Radar system on the processing app</h2>
 <img width="1442" alt="Screenshot 2025-01-01 at 15 26 50" src="https://github.com/user-attachments/assets/1045d319-f71a-476c-96ef-ee13c80fe12e" />
 
+<h2>Fully Developed Radar System</h2>
+<img width="1442" alt="Screenshot 2025-01-01 at 15 26 50" src="https://github.com/user-attachments/assets/1045d319-f71a-476c-96ef-ee13c80fe12e" />
+
 
 <h2>CONCLUSION</h2>
 The Arduino-based radar system demonstrates how fundamental radar principles can be effectively implemented using low-cost, readily available hardware. The system achieves real-time object detection and distance measurement by integrating an ultrasonic sensor, servo motor, and Arduino microcontroller, showcasing practical applications in obstacle detection, navigation, and surveillance.
