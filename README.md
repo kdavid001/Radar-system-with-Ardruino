@@ -23,7 +23,7 @@ S/N	PRODUCT	QUANTITY <br>
 <img width="1442" alt="Screenshot 2025-01-01 at 15 26 50" src="[RADAR-PROJECT-IMAGE.pdf](https://github.com/user-attachments/files/19179345/RADAR-PROJECT-IMAGE.pdf)" />
 
 <h2>Radar System circuit diagram</h2>
-<img width="1442" src="![Radar system circuit diagram](https://github.com/user-attachments/assets/20224688-419e-45ed-977a-3d80a53b8afd)"/>
+<img width="1442" src="https://github.com/user-attachments/assets/20224688-419e-45ed-977a-3d80a53b8afd"/>
 <h4>made with Tinkercad</h4>
 
 
