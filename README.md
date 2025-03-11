@@ -5,8 +5,6 @@ The report covers the hardware setup, software implementation, and system testin
 
 
 
-
-
 <h2> COMPONENTS USED </h2>
 S/N	PRODUCT	QUANTITY <br>
 1	HC-SR04 Ultrasonic	1	<br>
@@ -25,7 +23,7 @@ S/N	PRODUCT	QUANTITY <br>
 <img width="1442" alt="Screenshot 2025-01-01 at 15 26 50" src="[RADAR-PROJECT-IMAGE.pdf](https://github.com/user-attachments/files/19179345/RADAR-PROJECT-IMAGE.pdf)" />
 
 <h2>Radar System circuit diagram</h2>
-![Radar system circuit diagram](https://github.com/user-attachments/assets/338cd5e4-e2db-46ea-970e-3ee7c556a83c)
+<img width="1442" src="![Radar system circuit diagram](https://github.com/user-attachments/assets/20224688-419e-45ed-977a-3d80a53b8afd)"/>
 <h4>made with Tinkercad</h4>
 
 
